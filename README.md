@@ -16,45 +16,45 @@
 
 I'm an aspiring Software Developer focused on building practical applications, improving problem-solving skills, and learning modern development technologies.
 
-* 💻 Java & Full Stack Development
-* 🧠 Data Structures & Algorithms
-* ⚛️ React & Redux
-* 🔙 Backend Development
-* 🗄️ MySQL & SQL
-* ☁️ AWS Cloud
-* 🔐 Cybersecurity
-* 🛠️ Git & GitHub
-* 📍 Bengaluru, India
+- 💻 Java & Full Stack Development
+- 🧠 Data Structures & Algorithms
+- ⚛️ React & Redux
+- 🔙 Backend Development
+- 🗄️ MySQL & SQL
+- ☁️ AWS Cloud
+- 🔐 Cybersecurity
+- 🛠️ Git & GitHub
+- 📍 Bengaluru, India
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Programming Languages">
 </p>
 
-### Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux" alt="Frontend Technologies">
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=spring,python,flask" alt="Backend Technologies">
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" alt="Database and Tools">
 </p>
 
-### Cloud
+### ☁️ Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
@@ -66,15 +66,23 @@ I'm an aspiring Software Developer focused on building practical applications, i
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=veeresha2444&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Veeresha GitHub Stats"
-    height="180"
-  />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veeresha2444&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="95%"
+  >
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeresha2444&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Veeresha Top Languages"
-    height="180"
-  />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veeresha2444&theme=tokyonight"
+    alt="Repositories Per Language"
+    width="45%"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veeresha2444&theme=tokyonight"
+    alt="Most Commit Language"
+    width="45%"
+  >
 </p>
 
 ---
@@ -84,8 +92,8 @@ I'm an aspiring Software Developer focused on building practical applications, i
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=veeresha2444&theme=tokyonight&hide_border=true"
-    alt="Veeresha GitHub Streak"
-  />
+    alt="GitHub Streak"
+  >
 </p>
 
 ---
@@ -95,9 +103,9 @@ I'm an aspiring Software Developer focused on building practical applications, i
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=veeresha2444&theme=tokyo-night&hide_border=true&area=true"
-    alt="Veeresha Contribution Activity"
+    alt="GitHub Contribution Activity"
     width="95%"
-  />
+  >
 </p>
 
 ---
@@ -128,33 +136,31 @@ I'm an aspiring Software Developer focused on building practical applications, i
 
 Currently working on:
 
-```text
-Arrays
-Strings
-Searching
-Sorting
-Hashing
-Linked Lists
-Stack
-Queue
-Recursion
-Trees
-Heaps
-Graphs
-Dynamic Programming
-```
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Hashing
+- Linked Lists
+- Stack
+- Queue
+- Recursion
+- Trees
+- Heaps
+- Graphs
+- Dynamic Programming
 
 ### 🎯 Interview Preparation
 
-* Java
-* DSA
-* OOP
-* SQL
-* DBMS
-* Problem Solving
-* Time Complexity
-* Space Complexity
-* Coding Interviews
+- Java
+- DSA
+- OOP
+- SQL
+- DBMS
+- Problem Solving
+- Time Complexity
+- Space Complexity
+- Coding Interviews
 
 ---
 
@@ -162,7 +168,7 @@ Dynamic Programming
 
 ## 💊 Medicine Supply Management System
 
-A database-driven application for managing medicines, suppliers, customers, products and purchase orders.
+A database-driven application for managing medicines, suppliers, customers, products, and purchase orders.
 
 **Technologies:** `Python` `Flask` `MySQL` `HTML` `CSS`
 
@@ -215,39 +221,3 @@ Working with AWS cloud services and deployment concepts.
                   REAL WORLD PROJECTS
                          ↓
                    SOFTWARE ENGINEER 🚀
-```
-
----
-
-# 💡 Developer Mindset
-
-> Learn → Build → Break → Debug → Improve → Repeat.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/veeresha2444">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%BB"
-    alt="Developer Animation"
-  />
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
