@@ -64,25 +64,27 @@ I'm an aspiring Software Developer focused on building practical applications, i
 
 # 📊 GitHub Analytics
 
+<h2>📊 GitHub Analytics</h2>
+
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veeresha2444&theme=tokyonight"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="GitHub Profile Details"
     width="95%"
-  >
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veeresha2444&theme=tokyonight"
-    alt="Repositories Per Language"
-    width="45%"
-  >
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veeresha2444&theme=tokyonight"
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
     alt="Most Commit Language"
     width="45%"
-  >
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories Per Language"
+    width="45%"
+  />
 </p>
 
 ---
