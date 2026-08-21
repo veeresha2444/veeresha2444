@@ -1,57 +1,51 @@
 # 👋 Hi, I'm Veeresha
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solver;React+%7C+Java+%7C+Python;Backend+%7C+SQL+%7C+AWS;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solver;React+%7C+JavaScript+%7C+Python;Backend+%7C+SQL+%7C+AWS;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing Animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/veeresha2444">
-    <img src="https://komarev.com/ghpvc/?username=veeresha2444&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=veeresha2444&label=Profile%20Views&color=0e75b6&style=flat"/>
   </a>
-  <a href="https://github.com/veeresha2444?tab=followers">
-    <img src="https://img.shields.io/github/followers/veeresha2444?label=Followers&style=flat" />
-  </a>
+  <img src="https://img.shields.io/github/followers/veeresha2444?label=Followers&style=flat"/>
+  <img src="https://img.shields.io/github/stars/veeresha2444?label=Stars&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring **Software Developer** focused on building practical applications and improving my problem-solving skills.
+I'm an aspiring **Software Developer** focused on building practical applications, solving programming problems, and continuously improving my development skills.
 
 * 💻 Focused on **Java & Full Stack Development**
 * 🧠 Practicing **Data Structures & Algorithms**
-* ⚛️ Learning and building applications with **React**
+* ⚛️ Building applications with **React**
 * 🔙 Interested in **Backend Development**
 * 🗄️ Working with **MySQL & SQL**
 * ☁️ Exploring **AWS Cloud**
 * 🔐 Interested in **Cybersecurity**
-* 🛠️ Love debugging, solving problems and building projects
+* 🛠️ Love debugging, solving problems, and building projects
 * 🎯 Preparing for software development opportunities
 * 📍 Bengaluru, India
 
 ---
 
-## 🧑‍💻 My Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,flask" />
@@ -80,15 +74,15 @@ I'm an aspiring **Software Developer** focused on building practical application
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=veeresha2444&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=veeresha2444&theme=tokyonight&hide_border=true" width="700"/>
 </p>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veeresha2444&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
@@ -96,17 +90,21 @@ I'm an aspiring **Software Developer** focused on building practical application
 
 ---
 
-## 🐍 My Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
 # 🧠 DSA & Problem Solving
 
-Currently strengthening my problem-solving skills with:
+I'm continuously improving my problem-solving skills through:
 
 ```text
 Arrays
@@ -132,13 +130,15 @@ Graphs
 Dynamic Programming
 ```
 
-### 🎯 Problem-Solving Goals
+### 🎯 Interview Preparation
 
-* Solve coding problems consistently
-* Improve algorithmic thinking
-* Understand time and space complexity
-* Write clean and optimized code
-* Prepare for technical interviews
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* SQL & DBMS
+* Java
+* Problem Solving
+* Time & Space Complexity
+* Coding Interviews
 
 ---
 
@@ -146,11 +146,9 @@ Dynamic Programming
 
 ## 💊 Medicine Supply Management System
 
-A database-driven application designed to manage medicines, suppliers, customers and purchase orders.
+A database-driven application for managing medicines, suppliers, customers, products, and purchase orders.
 
-### Technologies
-
-`Python` `Flask` `MySQL` `HTML` `CSS`
+**Technologies:** `Python` `Flask` `MySQL` `HTML` `CSS`
 
 ### Features
 
@@ -164,13 +162,11 @@ A database-driven application designed to manage medicines, suppliers, customers
 
 ---
 
-## ⚛️ React Projects
+## ⚛️ React & Redux Projects
 
 Building frontend applications using modern React concepts.
 
-### Technologies
-
-`React` `JavaScript` `Redux Toolkit` `HTML` `CSS`
+**Technologies:** `React` `JavaScript` `Redux Toolkit` `HTML` `CSS`
 
 ### Concepts
 
@@ -178,8 +174,8 @@ Building frontend applications using modern React concepts.
 * Props
 * State
 * Hooks
-* `useState`
-* `useReducer`
+* useState
+* useReducer
 * Redux
 * Redux Toolkit
 * API integration
@@ -189,13 +185,11 @@ Building frontend applications using modern React concepts.
 
 ## ☁️ AWS Cloud Projects
 
-Hands-on experience with AWS cloud services.
+Hands-on experience with AWS services.
 
-### Technologies
+**Technologies:** `AWS EC2` `AWS S3` `AWS IAM`
 
-`AWS EC2` `AWS S3` `AWS IAM`
-
-### Focus Areas
+### Focus
 
 * 🚀 Backend deployment
 * ☁️ Cloud infrastructure
@@ -207,32 +201,15 @@ Hands-on experience with AWS cloud services.
 
 # 🎓 Core Computer Science
 
-```text
-Object-Oriented Programming
-        │
-        ├── Encapsulation
-        ├── Inheritance
-        ├── Polymorphism
-        └── Abstraction
-
-Data Structures & Algorithms
-        │
-        ├── Arrays
-        ├── Linked Lists
-        ├── Stack
-        ├── Queue
-        ├── Trees
-        ├── Graphs
-        └── Dynamic Programming
-
-Database Management
-        │
-        ├── SQL
-        ├── Joins
-        ├── Normalization
-        ├── Transactions
-        └── Database Design
-```
+| Area       | Concepts                                            |
+| ---------- | --------------------------------------------------- |
+| ☕ Java     | OOP, Collections, Exception Handling, Interfaces    |
+| 🧠 DSA     | Arrays, Strings, Linked Lists, Trees, Graphs, Heaps |
+| 🗄️ DBMS   | SQL, Joins, Normalization, Transactions             |
+| 🌐 Web     | HTML, CSS, JavaScript, React                        |
+| ⚙️ Backend | Flask, REST APIs, CRUD                              |
+| ☁️ Cloud   | EC2, S3, IAM                                        |
+| 🔧 Tools   | Git, GitHub, VS Code, Postman                       |
 
 ---
 
@@ -248,42 +225,23 @@ My current focus is becoming stronger in **Java Full Stack Development** while i
 
 ---
 
-# 📊 My Development Journey
+# 🎯 Career Goals
 
 ```text
-Java
-████████████████████░░ 90%
-
-DSA
-███████████████░░░░░░░ 70%
-
-React
-████████████████░░░░░░ 80%
-
-SQL
-█████████████████░░░░░ 85%
-
-Python
-███████████████░░░░░░░ 75%
-
-AWS
-████████████░░░░░░░░░░ 60%
+                 SOFTWARE DEVELOPER
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+      JAVA             DSA           FULL STACK
+        │                │                │
+   Spring Boot       Problem        React + Backend
+        │             Solving             │
+        └────────────────┼────────────────┘
+                         ↓
+                  REAL WORLD PROJECTS
+                         ↓
+                  SOFTWARE ENGINEER 🚀
 ```
-
-> These percentages represent my current learning focus, not formal proficiency scores.
-
----
-
-# 🏆 Goals
-
-* [ ] Become a strong Java developer
-* [ ] Master DSA
-* [ ] Build production-ready full-stack applications
-* [ ] Improve backend development
-* [ ] Strengthen SQL and database concepts
-* [ ] Build more AWS projects
-* [ ] Contribute to open-source projects
-* [ ] Crack software development interviews 🚀
 
 ---
 
@@ -291,7 +249,7 @@ AWS
 
 > **Learn → Build → Break → Debug → Improve → Repeat.**
 
-I believe real programming skills come from actually building things, making mistakes, debugging them, and understanding why the solution works.
+I believe the best way to learn programming is by building real projects, making mistakes, debugging them, and understanding why the solution works.
 
 ---
 
@@ -311,14 +269,14 @@ I believe real programming skills come from actually building things, making mis
 
 ---
 
-# ⭐ Thanks for Visiting!
+# ⚡ Fun Fact
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%BB" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code.+Debug.+Learn.+Repeat.;Turning+Problems+into+Solutions+%F0%9F%92%BB;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
+---
+
 <p align="center">
-  ⭐ Star my repositories if you find them useful!
+  ⭐ Thanks for visiting my profile!
 </p>
