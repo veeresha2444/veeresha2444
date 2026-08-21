@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Veeresha
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veeresha2444/veeresha2444/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solver;React+%7C+Java+%7C+Python;Backend+%7C+SQL+%7C+AWS;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
